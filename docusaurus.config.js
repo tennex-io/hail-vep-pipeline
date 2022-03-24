@@ -23,7 +23,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/tennex-io/hail-vep-pipeline/tree/main/docs/index.md',
+          editUrl: 'https://github.com/tennex-io/hail-vep-pipeline/tree/main/',
         },
         blog: false,
         theme: {
