@@ -19,7 +19,7 @@ The `vep` folder in this dataset contains caches for:
 - Zebrafish (_Danio rerio_) [GRCz11](http://uswest.ensembl.org/Danio_rerio/Info/Index)
 - Human (_Homo sapiens_) [GRCh38](http://uswest.ensembl.org/Homo_sapiens/Info/Index)
 - Human (_Homo sapiens_) [GRCh37](https://grch37.ensembl.org/Homo_sapiens/Info/Index)
-- Rat (_Rattus norvegicus_) [Rnor_6.0](https://uswest.ensembl.org/Rattus_norvegicus/Info/Index)
+- Rat (_Rattus norvegicus_) [Rnor_6.0 (VEP 104 and earlier) mRatBN7.2 (VEP 105 and later)](https://uswest.ensembl.org/Rattus_norvegicus/Info/Index)
 
 for several recent versions of VEP.
 
